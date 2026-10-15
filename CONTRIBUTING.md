@@ -1,5 +1,7 @@
 # Contributing to Archify
 
+See the [documentation reading map](docs/reading-map.md) for task-based routes to the owners of authoring, delivery, agent and review rules.
+
 Archify is Agent-first: people describe systems, and the Skill, typed JSON, renderers, validators, and delivery receipts produce reproducible diagrams. Keep each contribution focused on one user-visible behavior or one tightly related delivery slice. Maintainers and Agents reviewing a PR or a revised head follow [Reviewing](REVIEWING.md).
 
 ## Choose the right path

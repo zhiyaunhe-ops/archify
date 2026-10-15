@@ -449,3 +449,7 @@ Using Archify, sharing it, reporting bugs, and contributing improvements are als
 ## Star History
 
 <p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tt-a1i/archify/star-history/assets/star-history-dark.svg" /><img alt="Star History" src="https://raw.githubusercontent.com/tt-a1i/archify/star-history/assets/star-history-light.svg" /></picture></p>
+
+## Documentation reading map
+
+For selective, task-oriented reading, use the [documentation reading map](docs/reading-map.md). Follow only the relevant Skill reference, contributor rule, review procedure, or example.
